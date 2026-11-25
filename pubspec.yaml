@@ -39,6 +39,7 @@ dependencies:
   http: ^1.6.0
   device_info_plus: ^13.2.0
 
+  material_ui: ^1.11.1
 dev_dependencies:
   flutter_test:
     sdk: flutter
